@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "angular-drag-and-drop-lists": "^2.1.0",
-    "materialize-css": "^0.98.2"
+    "materialize-css": "^0.99.0"
   }
 }
